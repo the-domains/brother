@@ -1,0 +1,14 @@
+layout_spectrum: 0.4949457459151745
+typography_spectrum: 0.9215655322186649
+color:
+  brandStrength: 0.7649806479457766
+  lightness: 0.6422882236074656
+  saturation: 0.6668431120924652
+  rhythmicContrast: 0.2946784356608987
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Brother
